@@ -1,0 +1,338 @@
+---
+title: "Meenakshi Kushwaha's CV"
+author: Meenakshi Kushwaha
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+
+
+---
+
+Aside
+================================================================================
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> kmeena@uw.edu
+- <i class="fa fa-github"></i> [meenakshi-kushwaha](https://github.com/meenakshi-kushwaha)
+- <i class="fa fa-phone"></i> +886 972-033-173
+- <i class="fa fa-twitter"></i> [envhealthspeak](https://twitter.com/envhealthspeak)
+- <i class="fa fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=74m3f1kAAAAJ&hl=en&authuser=1)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-globe"></i> **Experience**: Worked on environmental health projects in Africa, US, and Asia.
+<i class="fa fa-laptop"></i> **Programming**: R, GitHub, ArcGIS, STATA
+<i class="fa fa-lightbulb-o"></i> **Other**: Teaching, scientific communication, 
+data analysis, data visualization, statistics, experimental design, project management
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+The source code is available at github.com/meenakshi-kushwaha/cv
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Meenakshi Kushwaha {#title}
+--------------------------------------------------------------------------------
+
+Environmental and public health professional with 10 years of interdisciplinary research experience and established record of peer-reviewed journal publications. Currently seeking a PhD position to enhance my academic skills, practice teaching and perform consequential environmental epidemiology. 
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Washington, Seattle
+
+MPH in Environmental and Occupational Health
+
+Seattle, WA
+
+2015
+
+- Certificate in International Development Policy and Management
+
+<!-- Thesis: Dyadic wavelet and its application in edge detection -->
+
+### University of Alabama at Birmingham
+
+MS in Biomedical Engineering
+
+Birmingham, AL
+
+2008
+
+### University of Alabama at Birmingham
+
+BTech in Bioengineering
+
+Thanjavur, India
+
+2006
+
+
+
+Public Health Projects {data-icon=users}
+--------------------------------------------------------------------------------
+
+### Air Quality
+
+Co-founder and Lead consultant, ILK Labs
+
+Bangalore, India
+
+2017 - Present
+
+- Designed and implemented mobile air quality monitoring to generate high resolution pollution maps  (Project partners: University of Washington, Seattle, University of Texas, Austin and CSTEP, India)
+- Led setting up city-wide network of 40 low-cost PM2.5 monitors
+- Analyzed the Indian Human Development Survey panel data set to determine factors associated with LPG adoption and disadoption.
+
+
+### Exposure Assessment
+
+Consultant, New York Times
+
+New Delhi, India
+
+2019
+
+Consulted on a story on PM2.5 personal exposures in Delhi neighborhoods.
+
+### Childhood Lead Exposure (Hanoi, Vietnam)
+
+Graduate Research Assistant, University of Washington 
+
+Seattle, WA
+
+2014 - 2016
+
+- Evaluated an intervention to reduce childhood lead exposure in a battery recycling village
+- Determined risk factors by analyzing baseline and follow-up  blood lead levels using R and Stata 
+
+### Health Policy
+
+Student Consultant, Washington State Department of Health
+
+Seattle, WA
+
+2014 - 2016
+
+- Collaborated with state officials to develop health policy regarding maternal and childhood lead screening
+
+### Cooking and Pneumonia Study (CAPS)
+
+Intern, Liverpool School of Tropical Medicine
+
+Karonga, Malawi
+
+2014
+
+- Developed assessment tools to monitor the accuracy and IMCI compliance of pneumonia diagnosis
+- Piloted field implementation of the assessment tools to collect data on performance indicators
+- Developed plan for IMCI training workshops using participatory methods
+
+:::aside
+Awards & Honors 
+--------------------------------------------------------------------------------
+
+- **ISEE**
+- Travel Award (2019, 2020)
+- **University of Washington**
+- Graduate School fund for Excellence and Innovation Travel Award, 2015
+- Graduate School Scholarship, 2013-2015
+- **The Ohio State University**
+- Invited Judge at the Annual Research Day, 2011
+- **University of Alabama**
+- UAB Caroline P. Ireland Research Scholarship Award, 2007
+
+:::
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Language for Beginners
+
+Instructor of R and Data Visualization
+
+Remote
+
+2020
+
+### Grand Challenges Impact Lab
+
+Country Coordinator, University of Washington
+
+Bangalore, India
+
+2017 - 2020
+
+- Developed curriculum, and implemented the 15-credit study abroad course 
+- Lectured on design thinking and cross-cultural collaboration
+
+### Health and Environment
+
+Co-Instructor, Azim Premji University
+
+Bangalore, India
+
+2017
+
+- Mentored graduate students on writing teaching cases connecting planetary boundaries to public health
+
+### Global Enviornmental Health
+
+Teaching Assistant, University of Washington
+
+Seattle, WA
+
+2015
+
+
+
+
+Other Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Research Associate, Department of Prosthodontics
+
+The University of Iowa
+
+Iowa City, IA
+
+2011-2013
+
+- Expanded lab capabilities by establishing cell culture activities and developing protocols
+- Ensured compliance with regulatory requirements by developing test methods using ASTM/ISO standards 
+
+### Research Associate, Restorative and Prosthetic Dentistry
+
+The Ohio State University
+
+Columbus, OH
+
+2009-2011
+
+- Designed and conducted biocompatibility experiments for in vitro characterization of orthopedic ceramics
+- Investigated physical characteristics of zirconia-based ceramics for dental applications
+
+### Research Assistant, Department of Biomedical Engineering
+
+The University of Alabama at Birmingham
+
+Birmingham, AL
+
+2006-2008
+
+- Assisted in setting up Tissue Engineering Laboratory by formulating easy-to-understand standard operating procedures, equipment maintenance and troubleshooting
+-Developed a drug-releasing scaffold for cardiovascular implant coatings and evaluated drug release profile
+
+Selected Publications, Presentations and Patent {data-icon=file}
+--------------------------------------------------------------------------------
+### Mobile-monitoring of Black Carbon and Ultrafine particles in Bangalore, India
+
+ISEE Presentation (Session: High Resolution Air Pollution Exposure Assessment)
+
+Virtual
+
+2020
+
+
+### Mobile-Monitoring Campaign for Air-Pollution Studies in Bengaluru
+
+Working Paper, CSTEP, 2020
+
+N/A
+
+2020
+
+Sreekanth V, and **Kushwaha M**
+
+
+###  mmaqshiny v1. 0: R-Shiny package to explore Air-Quality
+ 
+Journal of Open Source Software. 2020 Jun 28;5(50):2250.
+
+N/A
+
+2020 
+
+Upadhya AR, Agrawal P, Vakacherla S, and **Kushwaha M**. 
+
+### Mobile-Monitoring of Air Pollution (Black Carbon): Preliminary Results from Bangalore, India
+
+ISEE Conference Presentation
+
+Utrecht, Amsterdam
+
+2019
+
+###  What Explains LPG Adoption? Role of Culture, Women's Empowerment, and Economics, Using the Indian Human Development Survey, 2005 and 2012. 
+
+ISEE Conference Poster
+
+Ottawa, Canada
+
+2018
+
+### A Targeted Approach to Blood Lead Screening in Children, Washington State.    2015 Expert Panel Recommendations 
+
+Contributing Author
+
+N/A
+
+2016
+
+### Childhood Lead Exposure in a Vietnamese Battery Recycling Village. 
+
+Invited podium presentation at Academic Pediatric Association Scholars Retreat 
+
+Reston, VA
+
+2014
+
+### Endothelium Mimicking Nanomatrix. 
+
+United States Patent No. 8,735,354. 
+
+N/A
+
+2014 
+
+Jun HW, **Kushwaha M**, Brigitta BC, Anderson PG.
+ 
+
+### Differentiation of human mesenchymal stem cells on fluorapatite glass- ceramics. 
+
+Dental Materials. 2012 Mar;28(3):252-60.
+
+N/A
+
+2012
+
+**Kushwaha M**, Pan X, Holloway JA, Denry IL. 
+
+### A nitric oxide releasing, self assembled peptide amphiphile matrix that mimics native endothelium for coating implantable cardiovascular devices. 
+
+Biomaterials. 2010 Mar;31(7):1502-8.
+
+N/A
+
+2010
+
+**Kushwaha M**, Anderson JM, Bosworth CB, Minor WP, Andukuri A, Lancaster JR Jr, Brott. BC, Anderson PG, Jun HW. 
